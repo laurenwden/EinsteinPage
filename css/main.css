@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #DCDCE5;
+}
+
+div{
+    padding: 10px 10px;
+}
+
+body,div, img{
+    display: block;/*This makes elements stack one on top of the other*/
+    margin: 0 auto;
+}
+
+.center-span{
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1{
+    color: #3A7FAB;
+}
+
+h4{
+    margin-top: -20px;
+   color: #55973B;
+}
+
+ul{
+    padding-left:50px;
+}
+.quote{
+    font-size:20px;
+    margin-top: -15px;
+}
+
+.resource{
+   color:#9c60b9;
+   padding-left:0px;
+}
+
+p{
+    padding-left: 38px;
+}
